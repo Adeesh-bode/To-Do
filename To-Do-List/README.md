@@ -2,8 +2,11 @@
 
 checkout at : https://to-do-react-azure.vercel.app/
 
-<img src="/To-Do-List/src/assets/todo1.png" alt="todotask></img>
-<img src="/To-Do-List/src/assets/todo2.png" alt="todotask></img>
+
+<div style=" text-align: center;">
+<img src="To-Do-List/src/assets/todo1.png" alt="todotask">
+<img src="To-Do-List/src/assets/todo2.png" alt="todotask">
+</div>
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 
